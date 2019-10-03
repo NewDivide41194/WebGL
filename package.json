@@ -1,13 +1,14 @@
 {
-  "name": "my_three_dimational",
+  "name": "my_babylon",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "babylonjs": "^4.0.3",
+    "babylonjs-loaders": "^4.0.3",
     "react": "^16.10.1",
+    "react-babylonjs": "^1.0.3",
     "react-dom": "^16.10.1",
-    "react-scripts": "3.1.2",
-    "react-three-fiber": "^2.4.3",
-    "three": "^0.109.0"
+    "react-scripts": "3.1.2"
   },
   "scripts": {
     "start": "react-scripts start",
